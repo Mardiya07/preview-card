@@ -18,7 +18,7 @@ main{
 }
 .card{
 
-   padding:4rem 2rem 3rem 3rem;
+   padding:4rem 2rem 3rem 4rem;
     min-height: 25rem;
     line-height: 1.5rem;
     font-size: 1.5rem;
@@ -34,6 +34,7 @@ main{
 .carname{
     font-family: 'Big Shoulders Display', cursive;
     font-size: 2.8rem;
+    color: hsl(0, 0%, 95%);
     
 }
 .paragraph{
@@ -47,7 +48,7 @@ button{
     border-radius: 2.5rem;
     padding: 1rem;
     width: 12rem;
-    background-color: #f2f2f2;
+    background-color: hsl(0, 0%, 95%);
 }
 button:hover{
     background-color: transparent;
