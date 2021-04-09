@@ -1,0 +1,79 @@
+hmtl{
+    box-sizing: border-box;
+}
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lexend Deca', sans-serif;
+    margin:5rem 3rem 5rem 3rem ;
+}
+.card{
+   padding:4rem 1rem 3rem 4rem;
+    min-width: 25rem;
+    min-height: 26rem;
+    line-height: 1.5rem;
+    font-size: 1.5rem;
+    color:hsla(0, 0%, 100%, 0.75);
+}
+.card:nth-of-type(1){
+    border-radius: 1rem 1rem 0 0;
+}
+.card:nth-of-type(3){
+    border-radius: 0 0 1rem 1rem;
+}
+
+.carname{
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 2.8rem;
+    
+}
+.paragraph{
+    margin-bottom:3rem;
+    line-height: 1.8rem;
+
+}
+
+
+button{
+    border-style: none;
+    border-radius: 2.5rem;
+    padding: 1rem;
+    width: 12rem;
+    background-color: #f2f2f2;
+}
+button:hover{
+    background-color: transparent;
+    color: #f2f2f2 !important;
+    border-style:solid;
+    border-color: #f2f2f2;
+    cursor: pointer;
+}
+
+@media screen and (min-width: 920px){
+    body {
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+    .card{
+        min-height: 32rem;
+    }
+    .card:nth-of-type(1){
+        border-radius: 1rem 0 0 1rem;
+    }
+    .card:nth-of-type(3){
+        border-radius: 0 1rem 1rem 0;
+    }
+    .paragraph{
+        min-height: 12rem;
+
+    }
+    
+
+}
