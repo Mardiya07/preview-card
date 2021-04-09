@@ -12,10 +12,10 @@ body{
     align-items: center;
     font-family: 'Lexend Deca', sans-serif;
     margin:5rem 3rem 5rem 3rem ;
+    background-color: hsl(0, 0%, 95%);
 }
 .card{
    padding:4rem 1rem 3rem 4rem;
-    min-width: 70vw;
     min-height: 26rem;
     line-height: 1.5rem;
     font-size: 1.5rem;
