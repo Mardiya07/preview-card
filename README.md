@@ -47,7 +47,7 @@ I tackled this project with a mobile first approach. Worked from a top down fash
 
 ### Continued development
 
-Upon completion of this project and showing to friends, CSS variables came up in the discussion. Its implementation reduced repeation and helped me make changes to multiple sections by just editing corresponding root variables. 
+Upon completion of this project and showing to friends, CSS variables came up in the discussion. Its implementation reduced repetition and helped me make changes to multiple sections by just editing corresponding root variables. 
 After reading my implementation and you have suggestions that would further improve my work, kindly reach me via my social handles. Would be very much appreciated.
 
 ### Useful resources

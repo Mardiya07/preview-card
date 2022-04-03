@@ -118,7 +118,7 @@ main{
         flex-direction: row;
         align-items: center;
         justify-content: center;
-        margin:25% auto;
+        margin: 10% auto;
 
     }
     .mainItem-card{
