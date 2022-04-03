@@ -4,15 +4,17 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Frontend Mentor - 3-column preview card component solution](#frontend-mentor---3-column-preview-card-component-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+  - [Author](#author)
 
 
 ## Overview
@@ -30,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Mardiya07/preview-card)
-- Live Site URL: [Add live site URL here](https://mardiya07.github.io/preview-card/)
+- [Solution URL](https://github.com/Mardiya07/preview-card)
+- [Live Site URL](https://mardiya07.github.io/preview-card/)
 
 ## My process
 I tackled this project with a mobile first approach. Worked from a top down fashion and styled as I went along. With the desktop view I added constraints to make the page adjust accordinly.
@@ -41,10 +43,12 @@ I tackled this project with a mobile first approach. Worked from a top down fash
 - CSS media queries
 - Flexbox
 - Mobile-first workflow
+- BEM naming Convention
 
 ### Continued development
 
-Upon completion of this project and showing to friends, CSS variables came up in the discussion. I realised it would have helped me keep the areas where i used inline styling to a bare minimum or even none at all for cleaner and better code. Would definitely refactor this later. I didn't expect responsiveness to be this stressful. More practice to be done on that. If you notice more areas you think would be of great help kindly let me know as well.
+Upon completion of this project and showing to friends, CSS variables came up in the discussion. Its implementation reduced repeation and helped me make changes to multiple sections by just editing corresponding root variables. 
+After reading my implementation and you have suggestions that would further improve my work, kindly reach me via my social handles. Would be very much appreciated.
 
 ### Useful resources
 
